@@ -1,0 +1,7 @@
+.image{
+    background-image: url("https://pk.khaadi.com/media/wysiwyg/khaadi/01-01-category-banners/Fabrics-Category-0327-Banner-986x770.jpg");
+    clip-path: polygon(0% 15%, 0 0, 15% 0%, 100% 0, 86% 10%, 100% 13%, 100% 85%, 100% 100%, 85% 100%, 15% 100%, 0 100%, 0% 85%);4%, 100% 85%, 100% 100%, 85% 100%, 15% 100%, 0 100%, 0% 85%);
+
+height: 30rem;
+width: 50rem;
+}

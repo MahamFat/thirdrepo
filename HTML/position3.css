@@ -1,0 +1,222 @@
+*{
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+}
+.boxes{
+    width: 997px;
+    height:615px;
+    background-color: white;
+    border: 4px solid black;
+    margin: 0 auto;
+    margin-top: 151px;
+    position: relative;
+
+}
+.box1{
+    width:990px ;
+    height: 95px;
+    background-color: maroon;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.box2{
+    width: 83px;
+    height: 55px;
+    background-color: rgb(255, 245, 226);
+    position: absolute;
+    top: 20px;
+    right: 5px;
+    border-radius: 14px;
+}
+.box3{
+    width: 83px;
+    height: 55px;
+    background-color: rgb(255, 245, 226);
+    position: absolute;
+    top: 20px;
+    right: 96px;
+    border-radius: 14px;
+}
+.box4{
+    width: 83px;
+    height: 55px;
+    background-color: rgb(255, 245, 226);
+    position: absolute;
+    top: 20px;
+    right: 185px;
+    border-radius: 14px;
+}
+.box5{
+    width: 83px;
+    height: 55px;
+    background-color: rgb(255, 245, 226);
+    position: absolute;
+    top: 20px;
+    right: 275px;
+    border-radius: 14px;
+}
+
+.box6{
+    width: 514px;
+    height: 40px;
+    background-color: rgb(35, 35, 35);
+    position: absolute;
+    top: 95px;
+    left: 0;
+
+}
+.tittle1{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    font-size: 12px;
+    left: 19px;
+    top: -5px;
+}
+.tittle2{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    font-size: 12px;
+    left: 73px;
+    top: -5px;
+}
+.tittle3{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    font-size: 12px;
+    left: 123px;
+    top: -5px;
+}
+.tittle4{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    font-size: 12px;
+    left: 185px;
+    top: -5px;
+}
+.box7{
+    width: 528px;
+    height: 40px;
+    background-color: rgb(14, 58, 14);
+    position: absolute;
+    top: 95px;
+    right: 0px;
+
+}
+.box8{
+    width: 151px;
+    height: 20px;
+    position: absolute;
+    background-color: rgb(27, 240, 230);
+    top: 10px;
+    right: 30px;
+}
+.box9{
+    width:990px ;
+    height: 280px;
+    background-color: burlywood;
+    position: absolute;
+    top: 134px;
+    left: 0px;
+}
+.box10{
+    width: 938px;
+    height: 239px;
+    background-color: black;
+    position: absolute;
+    top: 153px;
+    left: 27px;
+
+}
+.box18{
+    position: absolute;
+    width: 145px;
+    height: 187px;
+    background-color: white;
+    border: 2px solid gainsboro;
+    z-index: 1;
+    top: 17px;
+    right:21px;
+    border-radius: 5px;
+}
+.box19{
+    position: absolute;
+    width:145px;
+    height: 187px;
+    background-color: white;
+    z-index: 2;
+    top: 33px;
+    right: 52px;
+    border: 2px solid gainsboro;
+    border-radius: 5px;
+}
+.box11{
+    width:937px;
+    height: 47px;
+    position: absolute;
+    background-color: blue;
+    top: 192px;
+    left: 0px;
+}
+.box12{
+    width: 93px;
+    height: 31px;
+    background-color: orange;
+    position:absolute;
+    border-radius: 5px;
+    top: 152px;
+    left: 20px;
+}
+.box13{
+    width: 93px;
+    height: 31px;
+    background-color: orange;
+    position:absolute;
+    border-radius: 5px;
+    top: 152px;
+    left: 140px;
+}
+.box14{
+    width: 383px;
+    height: 197px;
+    background-color: pink;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+.box15{
+    width: 350px;
+    height: 67px;
+    background-color: aqua;
+    position: absolute;
+    bottom: 0px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    left: 15px;
+}
+.box16{
+    width: 383px;
+    height: 162px;
+    background-color: aqua;
+    position: absolute;
+    border-radius: 3px;
+    border: 1px solid gray;
+    bottom: 12px;
+    left: 509px;
+}
+.box17{
+    width:382px;
+    height: 40px;
+    background-color: rgb(57, 57, 57);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 1px;
+}

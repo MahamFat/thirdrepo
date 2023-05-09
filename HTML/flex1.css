@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.cards{
+    width:100%;
+    display: flex;
+}
+.card1{
+    background-color: red;
+    height: 200px;
+    width: 500px;
+    /* flex-shrink: -1; */
+    /* flex-basis: 100px; */
+    flex-grow:9;
+}
+.card2{
+    background-color: blue;
+    height: 200px;
+    width: 500px;
+    /* flex-shrink: 9; */
+    flex-grow: 8;
+}
+.card{
+    background-color: black;
+    height: 300px;
+    width: 300px;
+    display: flex;
+}
+.tittle{
+    color: blue;
+    display: flex;
+    
+}

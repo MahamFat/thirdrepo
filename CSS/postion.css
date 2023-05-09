@@ -1,0 +1,83 @@
+/* .card{
+    height: 100vh;
+    width: 100%;
+    
+    position: relative;
+}
+.card-image{
+    height: 50vh;
+    background-image: url(../Assets/krunch\ burger.jpg);
+background-repeat: no-repeat;
+}
+.card-body{
+    height: 30vh;
+    
+    border-radius: 20%;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+   
+} */
+/* .box{
+    height:70vh;
+    width:20%;
+    background-color: rgb(43, 42, 42);
+    margin: 0 auto;
+   border-radius: 5%;
+   /* border-top-right-radius: 5%;
+   border-top-left-radius:5% ; */
+}
+
+/* .card-image{
+   height: 30vh;
+   
+    background-color: rgb(42, 41, 41);
+    background-image: url(../Assets/krunch\ burger.jpg);
+    background-size: cover;
+        background-image:no-repeat;
+        
+   
+    border-radius: 20%;
+}
+
+.card-body{
+    height: 30vh;
+    border:5px solid rgb(41, 41, 41); 
+    border-radius: 20%;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+   
+}
+.heading{
+    color: aliceblue;
+text-align: center;
+}
+.dec{
+    color: azure;
+    text-align: center;
+}
+.head{
+    color: aliceblue;
+    text-align: center;
+}
+.but{
+    background-color: red;
+    color: aliceblue;
+    padding:10px 20px;
+        border: 1px solid transparent;
+        border-radius: 10px;
+        font-weight: bold;
+
+
+} */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.boxes{
+    width: 300px;
+    height: 300px;
+    background-color: red;
+}

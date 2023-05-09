@@ -1,0 +1,132 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.boxes{
+    width: 1000px;
+    height: 574px;
+    background-color: white;
+   border: 5px solid grey;
+    margin: 0 auto;
+    margin-top: 50px;
+    position: relative;
+}
+.box1{
+    width:991px ;
+    height:242px ;
+    background-color: white;
+    border:30px solid black ;
+    position: absolute;
+    top: 50px;
+
+}
+.box9{
+    width:165px;
+height: 179px;
+background-color: orange;
+position: absolute;
+top: 2px;
+right: 2px;
+
+}
+.firstname{
+    font-size: small;
+    position: absolute;
+    left: 4px;
+}
+.lastname{
+    font-size: small;
+    position: absolute;
+    top: 45px;
+    left: 4px;
+}
+.but{
+    width: 54px;
+    height: 20px;
+    background-color:black ;
+    color: aliceblue;
+    font-size: 20px;
+    position: absolute;
+    top: 103px;
+    left: 0px;
+}
+.box2{
+    height:120px ;
+    width: 250px;
+    background-color: purple;
+    position: absolute;
+    top: 337px;
+    left: 50px;
+}
+.box3{
+    height:120px ;
+    width: 250px;
+    background-color: purple;
+    position: absolute;
+    top: 337px;
+    left: 366px;
+}
+.box4{
+    height:120px ;
+    width: 250px;
+    background-color: purple;
+    position: absolute;
+    top: 337px;
+    left: 683px;
+}
+.box5{
+    width:987px ;
+    height:80px ;
+    background-color: gray;
+    
+    position: absolute;
+    top: 483px;
+    left: 2px;
+    right: 3px;
+    
+}
+.button{
+    width: 80px;
+    height: 20px;
+    background-color: black;
+        color:white;
+        
+       font-size: 20px;
+       
+        position: absolute;
+        top: 30px;
+        right:20px;
+}
+.box12{
+    width:100px;
+height: 20px;
+background-color: white;
+position: absolute;
+top: 30px;
+right: 93px;
+}
+.box6{
+    width: 59px;
+    height: 66px;
+    background-color: rgb(230, 130, 188);
+    position: absolute;
+    top: 40px;
+    left: 176px;
+}
+.box7{
+    width: 59px;
+    height: 66px;
+    background-color: rgb(230, 130, 188);
+    position: absolute;
+    top: 40px;
+    left: 176px;
+}
+.box8{
+    width: 59px;
+    height: 66px;
+    background-color: rgb(230, 130, 188);
+    position: absolute;
+    top: 40px;
+    left: 176px;
+}
